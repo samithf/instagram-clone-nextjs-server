@@ -1,0 +1,31 @@
+// data file initial import for mongodb
+
+[
+  {
+    "title": "title A",
+    "price": 230,
+    "user": "5cded4d9c77bfa18b43d3e29",
+    "imageUrl": "https://img3.goodfon.com/original/800x480/6/d5/5120x2880-mac-os-os-x-10-10-9.jpg",
+    "numOfLikes": 22,
+    "description": "The design should be mobile-first, and on the desktop version the bottom menu should instead be on top; with the labels",
+    "numOfComments": 16
+  },
+  {
+    "title": "title B",
+    "price": 230,
+    "user": "5cded4d9c77bfa18b43d3e29",
+    "imageUrl": "https://img3.goodfon.com/original/800x480/6/d5/5120x2880-mac-os-os-x-10-10-9.jpg",
+    "numOfLikes": 22,
+    "description": "The design should be mobile-first, and on the desktop version the bottom menu should instead be on top; with the labels",
+    "numOfComments": 16
+  },
+  {
+    "title": "title C",
+    "price": 230,
+    "user": "5cded4d9c77bfa18b43d3e29",
+    "imageUrl": "https://img3.goodfon.com/original/800x480/6/d5/5120x2880-mac-os-os-x-10-10-9.jpg",
+    "numOfLikes": 22,
+    "description": "The design should be mobile-first, and on the desktop version the bottom menu should instead be on top; with the labels",
+    "numOfComments": 16
+  }
+]

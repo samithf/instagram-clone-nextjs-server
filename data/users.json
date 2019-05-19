@@ -1,0 +1,22 @@
+// data file initial import for mongodb
+
+[
+  {
+    "username": "Dilhara",
+    "avatarUrl": "http://www.gravatar.com/avatar/77a87ca05717403d2813164fd079c4ba?s=200&r=pg",
+    "posts": [],
+    "likes": []
+  },
+  {
+    "username": "Kasun",
+    "avatarUrl": "http://www.gravatar.com/avatar/77a87ca05717403d2813164fd079c4ba?s=200&r=pg",
+    "posts": [],
+    "likes": []
+  },
+  {
+    "username": "Namal",
+    "avatarUrl": "http://www.gravatar.com/avatar/77a87ca05717403d2813164fd079c4ba?s=200&r=pg",
+    "posts": [],
+    "likes": []
+  }
+]
